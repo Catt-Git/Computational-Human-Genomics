@@ -1,5 +1,5 @@
 The files in this folder are only some of the files required.
-This is a list of all the files used (other than the tools in the virtual machine)
+This is a list of all the files used:
 
 - Tumor.bam and Control.bam (main file to analyse)     
 - Captured_Regions.bed (specifies the target reions captured during sequences)     
