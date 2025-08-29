@@ -1,2 +1,5 @@
-*.r linguist-detectable=false
-.r/** linguist-vendored
+# Force all *.sh files to be detected as Bash
+*.sh linguist-language=Bash
+
+# Force all *.R files to be detected as R
+*.R linguist-language=R
