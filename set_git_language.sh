@@ -9,4 +9,7 @@ for i in {1..1000}; do
   :
 done
 
-# Filler lines to reach ~28 KB
+yes "# filler line to adjust GitHub Linguist stats" | head -n 600 > filler.tmp
+cat filler.tmp >> set_git_language.sh
+rm filler.tmp
+
