@@ -9,7 +9,15 @@ for i in {1..1000}; do
   :
 done
 
-yes "# filler line to adjust GitHub Linguist stats" | head -n 600 > filler.tmp
-cat filler.tmp >> set_git_language.sh
-rm filler.tmp
-
+# --------------------------------------------------------
+# filler line to adjust GitHub Linguist stats
+# filler line to adjust GitHub Linguist stats
+# filler line to adjust GitHub Linguist stats
+# filler line to adjust GitHub Linguist stats
+# filler line to adjust GitHub Linguist stats
+# filler line to adjust GitHub Linguist stats
+# filler line to adjust GitHub Linguist stats
+# filler line to adjust GitHub Linguist stats
+# filler line to adjust GitHub Linguist stats
+# filler line to adjust GitHub Linguist stats
+# --------------------------------------------------------
